@@ -1,0 +1,34 @@
+div {
+    font-family: 'Plus Jakarta Sans', Lato;
+    font-size: 16px;
+}
+#about-me {
+    font-size: 50px;
+}
+.header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.content {
+    border-radius: 20px;
+    text-align: center;
+    flex: 1;
+
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
